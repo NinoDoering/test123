@@ -9,6 +9,10 @@ public class main {
 		System.out.println("hallo   ");
 		System.out.println(" ihr schicker ");
 		
+		int abc = 123; 
+		int b = 12; 
+		
+		System.out.println(abc + b);
 	}
 
 }
