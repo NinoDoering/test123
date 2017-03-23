@@ -11,7 +11,7 @@ public class main {
 		
 		int abc = 123; 
 		int b = 12; 
-		
+		int cbc = 187 ; 
 		System.out.println(abc + b);
 	}
 
